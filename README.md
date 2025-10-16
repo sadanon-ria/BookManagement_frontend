@@ -1,24 +1,6 @@
-# BookManagement
+# 📚 Book Management System (Frontend)
 
-## Project setup
-```
-npm install
-```
+This project was developed as part of a **coding test** for a company.  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The **frontend** is built with **Vuejs**. 
+You can find the **backend** repository here: [BookManagement-Frontend](https://github.com/sadanon-ria/BookManagement_backend)
